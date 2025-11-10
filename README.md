@@ -5,7 +5,7 @@
 - 💼 11+ years of experience in AWS, Python, SQL, and Application Support  
 - ☁️ Skilled in EC2, S3, Lambda, CloudWatch, RDS  
 - 🧠 Learning: AI/ML, Automation, DevOps  
-- 📫 Reach me: your-email@example.com  
+- 📫 Reach me: param.lokare2019@gmail.com  
 
 ---
 
@@ -18,4 +18,4 @@
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com) | [Portfolio](https://yourwebsite.com)
+[LinkedIn](www.linkedin.com/in/parameshwar-lokare-8b4b731b6) | [Portfolio](https://yourwebsite.com)
